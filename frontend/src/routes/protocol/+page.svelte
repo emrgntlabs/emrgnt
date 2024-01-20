@@ -12,7 +12,7 @@
 <div class="pl-72 h-dvh">
     <div class="flex flex-col">
         <div class="h-8 pt-2">
-            <h1 class="pl-3 text-lg font-semibold">Sample Project</h1>
+            <h1 class="pl-3 text-lg font-semibold">Untitled Protocol</h1>
         </div>
         <div class="grow">
             <Editor
