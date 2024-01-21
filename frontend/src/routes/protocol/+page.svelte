@@ -170,7 +170,7 @@
 
 </script>
     
-<div class="pl-72 h-dvh">
+<div class="h-dvh">
 
     {#if showGenerateProtocolDialog}
     <div class="relative z-10" aria-labelledby="modal-title" role="dialog" aria-modal="true">
